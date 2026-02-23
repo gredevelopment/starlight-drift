@@ -2,7 +2,7 @@
 
 A cosmic dark VS Code color theme with indigo backgrounds, starry highlights, and nebula gradients for comfortable, elegant coding.
 
-![ScreenShot](https://cdn.jsdelivr.net/gh/gredevelopment/starlight-drift/images/screenshot.jpeg)
+![ScreenShot](https://cdn.jsdelivr.net/gh/gredevelopment/starlight-drift/images/demo.jpeg)
 
 ## Features
 
@@ -40,4 +40,4 @@ To override this (or any other) theme in your personal config file, please follo
 
 ## License
 
-This project is licensed under the MIT License, see the [LICENSE](https://github.com/gredevelopment/starlight-drift/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License, see the [LICENSE](https://github.com/gredevelopment/starlight-drift/blob/master/LICENSE.md) file for details.
