@@ -1,7 +1,7 @@
 {
   "name": "starlight-drift",
   "displayName": "Starlight Drift",
-  "description": "Starlight Drift is a sleek VS Code theme inspired by cosmic nights, blending deep indigo backgrounds with soft starry highlights and subtle nebula gradients for syntax. It keeps your eyes comfortable during long coding sessions while adding a touch of interstellar elegance to your editor.",
+  "description": "A sleek VS Code theme collection inspired by cosmic nights. Available in dark and light variants, featuring carefully crafted colors for comfortable coding sessions. Perfect balance of elegance and readability with a touch of interstellar style.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
