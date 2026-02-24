@@ -157,7 +157,7 @@
     "sideBarTitle.foreground": "#e2e6ff",
     "statusBar.background": "#1e2135",
     "statusBar.border": "#282e53",
-    "statusBar.debuggingBackground": "#21252b",
+    "statusBar.debuggingBackground": "#1e1e2e",
     "statusBar.focusBorder": "#1a6eff",
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#21252b",
@@ -194,7 +194,8 @@
     "titleBar.activeBackground": "#1a1e31",
     "titleBar.activeForeground": "#e2e6ff90",
     "titleBar.inactiveBackground": "#22273b",
-    "titleBar.inactiveForeground": "#6b717d"
+    "titleBar.inactiveForeground": "#6b717d",
+    "debugToolBar.background": "#222235"
     //"actionBar.toggledBackground": "#4254b8ae",
     //"activityBar.activeBorder": "#abbbdb",
     //"activityBar.dropBorder": "#abbbdb",
