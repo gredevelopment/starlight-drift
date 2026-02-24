@@ -7,6 +7,12 @@
     "type": "git",
     "url": "https://github.com/gredevelopment/starlight-drift.git"
   },
+  "bugs": {
+    "url": "https://github.com/gredevelopment/starlight-drift/issues"
+  },
+  "sponsor": {
+    "url": "https://patreon.com/gredev"
+  },
   "publisher": "gredev",
   "pricing": "Free",
   "icon": "images/logo.png",
